@@ -1,0 +1,7 @@
+Version: V2.0
+- LoadLibrary Injection
+- Auto Inject
+- Auto Refresh DLL
+- Easy process search
+- Show All about Process
+- Show All about DLL
